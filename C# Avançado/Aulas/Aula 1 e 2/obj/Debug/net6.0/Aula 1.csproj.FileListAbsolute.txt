@@ -1,0 +1,30 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\refint\Aula 1.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Kaiky Santos Ribeiro\Aulas\C#\C# Avançado\Aula 1\obj\Debug\net6.0\ref\Aula 1.dll
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.exe
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.deps.json
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.runtimeconfig.json
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.dll
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\bin\Debug\net6.0\Aula 1.pdb
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.AssemblyInfo.cs
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.dll
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\refint\Aula 1.dll
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.pdb
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\Aula 1.genruntimeconfig.cache
+C:\Users\disrct\Desktop\C# Avançado\Aula 1\obj\Debug\net6.0\ref\Aula 1.dll

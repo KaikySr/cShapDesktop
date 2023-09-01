@@ -1,0 +1,15 @@
+
+<table>
+    <thead>
+        <th>Message</th>
+        <th>Horario</th>
+    </thead>
+
+    <tr *ngFor="let message of data">
+        <td>{{message.texto}}</td>
+        <td>{{message.horario}}</td>
+    </tr>
+</table>
+
+<input [(ngModel)]="message">
+<button (click)="add()">Postar</button>

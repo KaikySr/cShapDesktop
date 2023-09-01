@@ -1,0 +1,9 @@
+tela de login - FEITO
+tela de cadastro - FEITO
+tela de perfil -
+tela home -
+tela de um forum especifico - FEITO
+tela de criar post - FEITO
+tela de criar forum - FEITO
+tela de adicionar cargos (adm/criador) -
+tela de criar cargos -

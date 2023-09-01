@@ -1,0 +1,12 @@
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\obj\Debug\net6.0\ORMLib.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\obj\Debug\net6.0\ORMLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\obj\Debug\net6.0\ORMLib.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\obj\Debug\net6.0\ORMLib.AssemblyInfo.cs
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\obj\Debug\net6.0\ORMLib.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\bin\Debug\net6.0\ORMLib.deps.json
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\bin\Debug\net6.0\ORMLib.dll
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\bin\Debug\net6.0\ORMLib.pdb
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\obj\Debug\net6.0\ORMLib.dll
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\obj\Debug\net6.0\refint\ORMLib.dll
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\obj\Debug\net6.0\ORMLib.pdb
+C:\Users\disrct\Desktop\C# Avançado\ORM\ORMLib\obj\Debug\net6.0\ref\ORMLib.dll
